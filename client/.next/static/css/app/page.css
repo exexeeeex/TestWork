@@ -1,0 +1,103 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/app/page.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************/
+.page_main__GlU4n {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6rem;
+    min-height: 100vh;
+}
+
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./src/components/cards/password-card/password-card.module.scss ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.password-card_card__bHyYZ {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  font-size: 20px;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  background-color: #303030;
+  border: 1px solid #838383;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./src/components/buttons/add-button/add-button.module.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.add-button_modalContainer__T1cfX {
+  position: relative;
+}
+
+.add-button_openModalButton__QKq6f {
+  background-color: #303030;
+  font-size: 20px;
+  cursor: pointer;
+  padding: 10px 20px;
+}
+
+.add-button_modal__KXpsr {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #151515;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.add-button_content__vGFTk {
+  background-color: #151115;
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+  max-width: 500px;
+  gap: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.add-button_buttons__YeT2H {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.add-button_close__q4nSg:hover,
+.add-button_close__q4nSg:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.add-button_button__cf2G8 {
+  background-color: #303030;
+  font-size: 20px;
+  cursor: pointer;
+  padding: 10px 20px;
+}
+
+.add-button_input__0ZcQs {
+  min-width: 50px;
+  height: 30px;
+  padding-left: 10px;
+  color: white;
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./src/components/places/password-place/password-place.module.scss ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.password-place_main__gDE2x {
+  max-height: 500px;
+  overflow: auto;
+  max-width: 90vw;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
