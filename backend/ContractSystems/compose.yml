@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  psql:
+    image: postgres:13.3
+    container_name: psql
+    hostname: psql
+    restart: always
+  api:
+    image: api:1.0.0
+    container_name: api
+    depends_on:
+      - psql
